@@ -1,6 +1,6 @@
 //Edited by 168funpc
 
-var Default_isFT = 1        //默认是否繁体，0-简体，1-繁体
+var Default_isFT = 0        //默认是否繁体，0-简体，1-繁体
 var StranIt_Delay = 50 //翻译延时毫秒（设这个的目的是让网页先流畅的显现出来）
 
 //－－－－－－－代码开始，以下别改－－－－－－－
